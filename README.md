@@ -3,6 +3,7 @@
 This project is for my personal use and will serve as notes on the algorithms and the implementations covered in the AlgoMonster course
 
 More details on each implementation and additional topics that are not tracked here can be found in the original course:
+
 https://algo.monster
 
 
@@ -20,10 +21,18 @@ https://algo.monster
 
 ***
 
+
+## Algorithms
+
+An algorithm is an unambiguous specification of how to solve a class of problems.
+It is a set of rules that precisely define a sequence of operations.
+
+### Algorithms by Topic
+
 * **Sorting**
-  * Insertion Sort
-  * Selection Sort
-  * Bubble Sort
+  * [Insertion Sort](src/algorithms/sorting/insertion-sort)
+  * [Selection Sort](src/algorithms/sorting/selection-sort)
+  * [Bubble Sort](src/algorithms/sorting/bubble-sort)
 
 ***
 

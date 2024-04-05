@@ -29,6 +29,9 @@ It is a set of rules that precisely define a sequence of operations.
 
 ### Algorithms by Topic
 
+* **Search**
+  * [Binary Search](src/algorithms/search/binary-search)
+
 * **Sorting**
   * [Insertion Sort](src/algorithms/sorting/insertion-sort)
   * [Selection Sort](src/algorithms/sorting/selection-sort)

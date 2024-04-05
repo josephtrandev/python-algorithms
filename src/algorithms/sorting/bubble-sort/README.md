@@ -20,3 +20,4 @@ It is **in-place** because no additional data structures are used
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
+- [La Vivien Post](https://www.lavivienpost.net/bubble-sort-basic-and-optimized/)

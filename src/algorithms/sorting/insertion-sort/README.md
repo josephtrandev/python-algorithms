@@ -18,4 +18,5 @@ It is **in-place** because no additional data structures are used to store inter
 
 ## References
 
-[Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
+- [Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
+- [La Vivien Post](https://www.lavivienpost.net/insertion-sort-gif/)

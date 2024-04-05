@@ -18,4 +18,5 @@ It is **in-place** because the only additional memory needed is for storing the 
 
 ## References
 
-[Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
+- [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
+- [La Vivien Post](https://www.lavivienpost.net/selection-sort-gif/)
